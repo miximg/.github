@@ -1,4 +1,4 @@
-# MiX IMAGINE Foundation
+# MiX IMAGINE OPEN SOURCE
 
 ## Table of Contents
 - [Repositories](#repositories)
